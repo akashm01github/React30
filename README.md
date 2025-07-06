@@ -45,9 +45,9 @@ This is a personal learning challenge, but feel free to open issues, suggest pro
 
 Follow my journey on:
 
-- 🐙 GitHub: [@YourUsername](https://github.com/akashm01github)
-- 🐦 Twitter: [@YourHandle](https://twitter.com/dev_akash001)
-- 🌐 Portfolio: [yourwebsite.com](https://akash-mukherjee.netlify.app/)
+- 🐙 GitHub: [@akashm01github](https://github.com/akashm01github)
+- 🐦 Twitter: [@dev_akash001](https://twitter.com/dev_akash001)
+- 🌐 Portfolio: [myPortfolio](https://akash-mukherjee.netlify.app/)
 
 ---
 
